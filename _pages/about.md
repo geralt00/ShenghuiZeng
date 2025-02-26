@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Particle Physics student working on measuring the $CP$-violation in [LHCb](https://lhcb.web.cern.ch/) experiment.
+Welcome! I am a Particle Physics student working on measuring the $$CP$$-violation in [LHCb](https://lhcb.web.cern.ch/) experiment.
