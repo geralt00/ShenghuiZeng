@@ -1,5 +1,5 @@
 ---
-title: "First observation of $\Lambda_c^+\rightarrow\Lambda K^+\pi^0$ and evidence of $\Lambda_c^+\rightarrow\Lambda K^+\pi^+\pi^-$ decay"
+title: "First observation of $\\Lambda_c^+\\rightarrow\\Lambda K^+\\pi^0$ and evidence of $\\Lambda_c^+\\rightarrow\\Lambda K^+\\pi^+\\pi^-$ decay"
 collection: publications
 permalink: /publication/Lc2Lhadron
 date: 2024-02-07
